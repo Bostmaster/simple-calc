@@ -1,5 +1,3 @@
-
-
 local letter = false
 io.write("Skriv ett tal")
 local first = io.read()
@@ -24,24 +22,3 @@ elseif operator == "/" then
 else
    io.write("Du måste välja ett giltig räknesätt")
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
