@@ -1,4 +1,3 @@
-local letter = false
 io.write("Skriv ett tal")
 local first = io.read()
 io.write("Skriv ett till tal")
